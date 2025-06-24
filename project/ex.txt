@@ -1,0 +1,2 @@
+IF I CLICK ON CREATE I WANT SUCESS MSG AND and it will redirect to another page in that i want to show
+exms in that table format and if user_status==1 i want to add,delete,edit button i want three button codes also
